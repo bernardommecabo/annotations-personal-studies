@@ -1,0 +1,15 @@
+.obsidian/
+.idea/
+*.iml
+*.ipr
+*.iws
+/target/
+/build/
+/out/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.log
