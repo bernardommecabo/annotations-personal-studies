@@ -15,15 +15,17 @@ Here you will find folders organized by specific courses and bootcamps.
 > **Course Description:**
 > Master professional backend development with Java and AWS. Learning from language fundamentals to creating scalable RESTful APIs with Spring Boot, integration with SQL and NoSQL databases, and cloud deployment with Amazon Web Services.
 
-* **📂 [Code Challenges](./annotations-personal-studies/CI&T - Backend Java & AWS/CodeChallenges)**
+* **📂 Code Challenges**
     * Solutions for algorithmic and logic challenges provided during the course.
-* **📂 [Project Challenges](./annotations-personal-studies/CI&T - Backend Java & AWS/ProjectChallenges)**
+    * at path (CI&T - Backend Java & AWS/CodeChallenges)
+* **📂 Project Challenges**
     * Final projects and hands-on applications built with Spring Boot and AWS.
-* **📝 [Course Notes](./CI&T - Backend Java & AWS/Notes)**
-    * [Java Fundamentals](./CI&T - Backend Java & AWS/Notes/01-Java-Fundamentals.md)
-    * [Spring Boot APIs](./CI&T - Backend Java & AWS/Notes/02-SpringBoot.md)
-    * [SQL & NoSQL Integration](./CI&T - Backend Java & AWS/Notes/03-Databases.md)
-    * [AWS Deployment](./CI&T - Backend Java & AWS/Notes/04-AWS.md)
+    * at path (CI&T - Backend Java & AWS/ProjectChallenges)
+* **📝 [Course Notes](./md.annotations/DIO/)**
+    * [Java Fundamentals](./md.annotations/DIO/Java-Fundamentals.md)
+    * [Spring Boot APIs](./md.annotations/DIO/SpringBoot.md)
+    * [SQL & NoSQL Integration](./md.annotations/DIO/Databases.md)
+    * [AWS Deployment](./md.annotations/DIO/AWS-Cloud.md)
 
 ---
 
