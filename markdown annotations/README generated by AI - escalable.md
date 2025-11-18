@@ -15,26 +15,36 @@ Here you will find folders organized by specific courses and bootcamps.
 > **Course Description:**
 > Master professional backend development with Java and AWS. Learning from language fundamentals to creating scalable RESTful APIs with Spring Boot, integration with SQL and NoSQL databases, and cloud deployment with Amazon Web Services.
 
-* **📂 [Code Challenges](./annotations-personal-studies/CI&T - Backend Java & AWS/CodeChallenges)**
+* **📂 [Code Challenges](./CIT_Java_AWS/CodeChallenges)**
     * Solutions for algorithmic and logic challenges provided during the course.
-* **📂 [Project Challenges](./annotations-personal-studies/CI&T - Backend Java & AWS/ProjectChallenges)**
+* **📂 [Project Challenges](./CIT_Java_AWS/ProjectChallenges)**
     * Final projects and hands-on applications built with Spring Boot and AWS.
-* **📝 [Course Notes](./CI&T - Backend Java & AWS/Notes)**
-    * [Java Fundamentals](./CI&T - Backend Java & AWS/Notes/01-Java-Fundamentals.md)
-    * [Spring Boot APIs](./CI&T - Backend Java & AWS/Notes/02-SpringBoot.md)
-    * [SQL & NoSQL Integration](./CI&T - Backend Java & AWS/Notes/03-Databases.md)
-    * [AWS Deployment](./CI&T - Backend Java & AWS/Notes/04-AWS.md)
+* **📝 [Course Notes](./CIT_Java_AWS/Notes)**
+    * [Java Fundamentals](./CIT_Java_AWS/Notes/01-Java-Fundamentals.md)
+    * [Spring Boot APIs](./CIT_Java_AWS/Notes/02-SpringBoot.md)
+    * [SQL & NoSQL Integration](./CIT_Java_AWS/Notes/03-Databases.md)
+    * [AWS Deployment](./CIT_Java_AWS/Notes/04-AWS.md)
 
 ---
 
 ### 🎓 Computer Science B.S. (IFSC)
 
+* **[Algorithms & Data Structures](./IFSC/Algorithms)**
+* **[Database Management](./IFSC/Database)**
 
 ---
 
 ## 🧠 General Self-Study
 
 Notes and exercises from independent study, articles, or documentation that don't belong to a specific course.
+
+### ☕ Java Ecosystem
+* [Java Core Concepts](./General/Java/Core.md)
+* [Spring Framework Deep Dive](./General/Java/Spring.md)
+
+### 🛠️ Tools & DevOps
+* [Git & GitHub Best Practices](./General/Tools/Git.md)
+* [Docker & Containers](./General/Tools/Docker.md)
 
 ---
 
