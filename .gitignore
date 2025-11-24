@@ -13,3 +13,8 @@
 *.zip
 *.tar.gz
 *.log
+
+
+
+# Ignore Smart Environment folder
+.smart-env
