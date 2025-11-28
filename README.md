@@ -28,18 +28,13 @@ Here you will find folders organized by specific courses and bootcamps.
     * [AWS Deployment](./md.annotations/DIO/AWS-Cloud.md)
 
 ---
-
-### 🎓 Computer Science B.S. (IFSC)
-
-
----
-
 ## 🧠 General Self-Study
 
 Notes and exercises from independent study, articles, or documentation that don't belong to a specific course.
 
----
+	
 
+---
 ## 👨‍💻 Author
 
 **Bernardo Guilherme Madruga Mecabô**

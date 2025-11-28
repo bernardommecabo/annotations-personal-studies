@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"949c19dcc7bee284","x":-280,"y":-240,"width":787,"height":740,"type":"text","text":""},
+		{"id":"53373ef18acadd56","x":-225,"y":-143,"width":320,"height":569,"type":"text","text":"##### **Big Techs**\n- Job Boards no proprio site\n- As vezes Linkedin\n\n##### **Job Boards**\n- wellfound (Startups, vale do silicio)\n- Busca booleana no Google\n\n##### **News**\n- Who is Hiring do Ycombinator\n- Posts do Linkedin\n\n##### **Outsourcing**\n- PJ Gringo\n- Menor salario porem mais facil"},
+		{"id":"46ccd54ecaa72b00","x":134,"y":-143,"width":320,"height":569,"type":"text","text":"##### **Paises**\n- "}
+	],
+	"edges":[]
+}
