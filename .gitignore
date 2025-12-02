@@ -1,4 +1,5 @@
 .obsidian/
+.smart-env/
 .idea/
 *.iml
 *.ipr
