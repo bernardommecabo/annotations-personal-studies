@@ -1,0 +1,53 @@
+### **Checklist:**
+##### Formatação  
+- [ ] O currículo está em PDF?  
+- [ ] Ao usar CTRL+F no currículo, é possível encontrar palavras-chave?  
+- [ ] O nome do arquivo do currículo é profissional e inclui seu nome? (Ex: joao_silva_cv.pdf)  
+- [ ] O currículo pode ser lido por ferramentas ATS?  
+- [ ] O currículo tem apenas uma página? (Aplicável para profissionais com menos anos de experiência)  
+- [ ] O currículo possui um design simples?  
+- [ ] O currículo não possui elementos gráficos complexos, como imagens ou tabelas, que possam dificultar a leitura por máquinas?  
+- [ ] A fonte utilizada é simples, comum e na cor preta?  
+- [ ] O currículo não possui foto? (Opcional)  
+- [ ] Não existem erros gramaticais ou de digitação?  
+- [ ] A educação está em primeiro lugar e com maior relevância? (Currículo universitário)  
+- [ ] As experiências profissionais estão em primeiro lugar e com maior relevância? (Currículo profissional)  
+- [ ] As experiências profissionais estão em ordem cronológica reversa? (Mais recente primeiro)  
+- [ ] As datas estão com o mesmo formato? Ex: January 2025 ou 01/2025  
+- [ ] As linguagens e ferramentas listadas estão proeminentemente visíveis?  
+- [ ] O currículo utiliza marcadores (bullet points) de forma consistente?  
+- [ ] O uso de negrito/itálico está reservado apenas para destacar informações importantes?  
+- [ ] O currículo está adaptado para a vaga/setor desejado? (Customização por vaga)  
+- [ ] O currículo foi revisado por outra pessoa (peer review)?  
+- [ ] O e-mail está com link mailto:  
+- [ ] Existem links clicáveis no PDF?  
+##### Header  
+- [ ] Se existir um “profile summary” (resumo no topo), ele é conciso e objetivo?  
+- [ ] Nome completo no topo do currículo  
+- [ ] No profile summary (ou objetivo profissional), existe o cargo atual ou desejado? Ex: “Backend Engineer with 10 years of experience”  
+- [ ] Existe número telefônico presente?  
+- [ ] Existe link para o LinkedIn?  
+- [ ] Existe link para o GitHub?  
+- [ ] Existe endereço ou, então, timezone?  
+- [ ] Existe link para portfólio, site ou projeto pessoal?  
+- [ ] Estão descritas as línguas faladas?  
+- [ ] O nome está em destaque e fácil de localizar?  
+- [ ] O e-mail é profissional (evitar apelidos ou domínios pouco usuais)? Um domínio próprio pode ser bem visto.  
+- [ ] O LinkedIn está atualizado e consistente com o currículo?  
+- [ ] O GitHub/portfólio contém projetos relevantes e recentes?  
+- [ ] O telefone está com DDD e, se necessário, código do país?  
+- [ ] O endereço é opcional, mas, se presente, não expõe dados sensíveis (ex: apenas cidade/estado)?  
+- [ ] O perfil/resumo não contém frases genéricas (“profissional dedicado, proativo, etc.”)?  
+##### Corpo  
+- [ ] As experiências profissionais estão descritas de maneira sucinta e com bullet points?  
+- [ ] Nas experiências, está sendo utilizado o método XYZ ou o método STAR?  
+- [ ] Existe experiência profissional irrelevante que deve ser removida? (Ex: profissional com 10 anos de experiência em Java e lista um emprego como atendente de supermercado 11 anos atrás)  
+- [ ] Cada descrição de atividade desempenhada está acompanhada das tecnologias utilizadas?  
+- [ ] Em todas as experiências profissionais existe uma seção de “tech stack”, listando todas as tecnologias utilizadas no emprego? (Opcional)  
+- [ ] Não existem “dependências” de tecnologias faltando? Por exemplo, um emprego que utiliza Django obrigatoriamente utiliza Python. Um emprego que utiliza Node.js obrigatoriamente utiliza JavaScript, às vezes TypeScript também.  
+- [ ] As conquistas atingidas no trabalho estão quantificadas? Exemplo: “Graduado como melhor da turma de 50 pessoas com nota 9,85 de 10”  
+- [ ] O currículo não contém detalhes desnecessários, como soft skills exageradas, por exemplo  
+- [ ] No caso de currículo universitário, há detalhes de projetos relevantes feitos na universidade?  
+- [ ] Cada experiência profissional tem cargo, empresa, período (mês/ano de início e fim) e localização?  
+- [ ] As descrições de atividades evitam frases vagas e focam em resultados e impacto?  
+- [ ] Certificações relevantes estão listadas e atualizadas?
