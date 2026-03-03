@@ -8,12 +8,12 @@
 	- Receive the answer from *AuthenticationManager* and creates a SECURITY CONTEXT.
 		-  stores the information of the authentication.
 - **AuthenticationManager**: Decides what to do with the object (credentials).
-	- For it when it decides to authenticate, he calls the *Authentication Provider* and it decides to give the user access by his *UserDetails* object.
+	- When decides to authenticate, he calls the *Authentication Provider* and it decides to give the user access by his *UserDetails* object.
 	- Returns to *Authentication Filter*.
 - **AuthenticationProvider**: 
 	- Is responsible to check in if the credentials are correct or not, and for to validate the credentials it need two other itens:
 		- **PasswordEncoder**: Responsible to prepare (encode) the password so the *AuthenticationProvider* be able to encrypt/decrypt after.
-		- **UserDetailsService**: Responsible to load the user details and all of his rules.
+		- **UserDetailsService**: Responsible to load the user details and all of its rules.
 			-  Need to access the database to load the user by username || email || ...
 			- Creates a UserObjet to return to the *AuthenticationProvider*.
 
