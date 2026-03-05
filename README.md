@@ -11,12 +11,13 @@ The goal is to document my learning journey in **Backend Development**, **Cloud 
 This section summarizes my key technical skills and formal education.
 
 ### Languages & Frameworks
-| Category      | Skill                                  | Level        |
-| :------------ | :------------------------------------- | :----------- |
-| **Languages** | ☕ Java, 🐍 Python, #️⃣ C#              | Intermediate |
-| **Backend**   | SpringBoot, RESTful APIs               | Learning     |
-| **Database**  | SQL Server, MySQL, Database Management | Intermediate |
-| **Tools**     | Git, GitHub, Docker                    | Proficient   |
+| Category           | Skill                                  | Level        |
+| :----------------- | :------------------------------------- | :----------- |
+| **Languages**      | ☕ Java, 🐍 Python, #️⃣ C#              | Intermediate |
+| **Backend**        | SpringBoot, RESTful APIs               | Learning     |
+| **Database**       | SQL Server, MySQL, Database Management | Intermediate |
+| **Message Broker** | RabbitMQ                               | Learning     |
+| **Tools**          | Git, GitHub, Docker                    | Proficient   |
 
 ---
 
@@ -34,7 +35,6 @@ Here you will find folders organized by specific courses and bootcamps.
 * **📂 Project Challenges**
     * Final projects and hands-on applications built with Spring Boot and AWS.
 * **📝 *Course Notes***
-    * *Java Fundamentals*
     * *Spring Boot APIs*
     * *SQL & NoSQL Integration*
     * *AWS Deployment*
@@ -44,6 +44,20 @@ Here you will find folders organized by specific courses and bootcamps.
 ## 🧠 General Self-Study
 
 Notes and exercises from independent study, articles, or documentation that don't belong to a specific course.
+
+### 🐇 RabbitMQ & Message Brokers
+
+> **Study Objective:**
+> To master the fundamentals of asynchronous communication and distributed systems. The focus is on understanding **Message Oriented Middleware (MOM)**, the **AMQP** protocol, and how to decouple services using Exchanges, Queues, and reliability patterns.
+
+* **📂 Core Concepts**
+    * *Understanding the flow: Producers, Consumers, and Bindings.*
+    * *Deep dive into **Exchange Types** (Direct, Fanout, Topic, Headers).*
+    * *Message Durability, Acknowledgments (Ack/Nack), and DLQs (Dead Letter Queues).*
+    * ***📝 Notes & Snippets***
+	    * *RabbitMQ Architecture & Exchanges*
+	    * *RabbitMQ - .NET Tutorial*
+	    * *RabbitMQ - Java Tutorial*
 
 ### 🌱 Spring Boot Development
 
@@ -58,6 +72,22 @@ Notes and exercises from independent study, articles, or documentation that don'
     * **📝 *Notes & Snippets***
         * *How Security Works in Spring Boot*
         * *Project Implementation*
+        * *In Memory Authentication*
+
+### 🗽 English Studies
+
+> **Study Objective:**
+> To continuously improve English proficiency, focusing on technical vocabulary expansion and writing accuracy. This section serves as a log for new words learned weekly and a repository for writing exercises (book summaries and technical essays) with their respective grammar corrections.
+
+* **📂 Weekly Vocabulary Bank**
+    * *A curated log of unknown words, idioms, and technical terms encountered during the week.*
+    * *Focus on context usage and definitions to build a stronger lexicon.*
+* **📂 Writing Practice & Corrections**
+    * *Summaries of books, articles, and technical documentation written in English.*
+    * *Analysis of grammar corrections and stylistic improvements to track progress.*
+* **📝 [Notes & Logs](./General/English/)**
+    * [Vocabulary Log - Week 01](./General/English/Vocabulary/Week01.md)
+    * [Writing: Book Reviews & Essays](./General/English/Writing/)
 
 ---
 
