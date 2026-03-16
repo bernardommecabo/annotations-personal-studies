@@ -85,9 +85,7 @@ Notes and exercises from independent study, articles, or documentation that don'
 * **📂 Writing Practice & Corrections**
     * *Summaries of books, articles, and technical documentation written in English.*
     * *Analysis of grammar corrections and stylistic improvements to track progress.*
-* **📝 [Notes & Logs](./General/English/)**
-    * [Vocabulary Log - Week 01](./General/English/Vocabulary/Week01.md)
-    * [Writing: Book Reviews & Essays](./General/English/Writing/)
+* **📝 Notes & Logs**
 
 ---
 
