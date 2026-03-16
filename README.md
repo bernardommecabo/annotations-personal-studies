@@ -95,3 +95,4 @@ Notes and exercises from independent study, articles, or documentation that don'
 
 * [LinkedIn](https://www.linkedin.com/in/bernardomecabo/)
 * [GitHub](https://github.com/bernardommecabo)
+* [Instagram](https://www.instagram.com/bernardomecabo/)
