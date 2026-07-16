@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "3b63ccc65b4249de",
+    "type": "split",
+    "children": [
+      {
+        "id": "20fecdce222c9bfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0caadb00c1694046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md.annotations/courses/Augusto Galego/Leetcode Workshop/Big O - Notation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big O - Notation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78a09aa50cc341b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c174561e954299a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b7d60ce27548af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "1fb30ec8742e3475",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f111ed47bfeab598",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9496551594faf70",
+    "type": "split",
+    "children": [
+      {
+        "id": "f962cba53f4ee731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45109f4142201db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "md.annotations/courses/DIO-Digital.Innovation.One/GFT - Fundamentos de Cloud com AWS/Introdução à AWS e ao Universo da Computação em Nuvem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Introdução à AWS e ao Universo da Computação em Nuvem"
+            }
+          },
+          {
+            "id": "37ce564097793c40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "md.annotations/courses/DIO-Digital.Innovation.One/GFT - Fundamentos de Cloud com AWS/Introdução à AWS e ao Universo da Computação em Nuvem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Introdução à AWS e ao Universo da Computação em Nuvem"
+            }
+          },
+          {
+            "id": "2b54f0567ef98e94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ac5cabcab6f774cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "66c24e4df29371f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "md.annotations/courses/DIO-Digital.Innovation.One/GFT - Fundamentos de Cloud com AWS/Introdução à AWS e ao Universo da Computação em Nuvem.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Introdução à AWS e ao Universo da Computação em Nuvem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "0caadb00c1694046",
+  "lastOpenFiles": [
+    "md.annotations/courses/DIO-Digital.Innovation.One/GFT - Fundamentos de Cloud com AWS/Introdução à AWS e ao Universo da Computação em Nuvem.md",
+    "md.annotations/courses/Augusto Galego/Leetcode Workshop/Big O - Notation.md",
+    "md.annotations/courses/Augusto Galego/Leetcode Workshop",
+    "md.annotations/README base.md",
+    "md.annotations/courses/DIO-Digital.Innovation.One/GFT - Fundamentos de Cloud com AWS",
+    "md.annotations/courses/DIO-Digital.Innovation.One/SpringBoot.md",
+    "md.annotations/courses/DIO-Digital.Innovation.One/Java-Fundamentals.md",
+    "md.annotations/courses/DIO-Digital.Innovation.One/Databases.md",
+    "md.annotations/courses/DIO-Digital.Innovation.One/AWS-Cloud.md",
+    "README.md"
+  ]
+}
