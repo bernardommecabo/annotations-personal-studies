@@ -1,4 +1,4 @@
-package org.bernardomecabo.OOPExamples.EncapsulationExercise.entities;
+package org.bernardomecabo.OOPExamples.Encapsulation.BankExample.entities;
 
 public class BankAccount {
     private int accountNumber;

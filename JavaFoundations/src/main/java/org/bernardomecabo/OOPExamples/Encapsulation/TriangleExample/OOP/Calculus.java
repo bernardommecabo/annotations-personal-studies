@@ -1,4 +1,4 @@
-package org.bernardomecabo.OOPExamples.TriangleExample.OOP;
+package org.bernardomecabo.OOPExamples.Encapsulation.TriangleExample.OOP;
 
 public class Calculus {
     public static Triangle areaTriangle(Triangle triangle) {

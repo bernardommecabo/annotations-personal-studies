@@ -1,6 +1,6 @@
-package org.bernardomecabo.OOPExamples.EncapsulationExercise;
+package org.bernardomecabo.OOPExamples.Encapsulation.BankExample;
 
-import org.bernardomecabo.OOPExamples.EncapsulationExercise.entities.BankAccount;
+import org.bernardomecabo.OOPExamples.Encapsulation.BankExample.entities.BankAccount;
 
 import java.util.Scanner;
 

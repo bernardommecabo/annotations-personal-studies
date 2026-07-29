@@ -1,4 +1,4 @@
-package org.bernardomecabo.OOPExamples.ProductsExampleBasic;
+package org.bernardomecabo.OOPExamples.Encapsulation.ProductsExampleBasic;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
-package org.bernardomecabo.OOPExamples.TriangleExample;
+package org.bernardomecabo.OOPExamples.Encapsulation.TriangleExample;
 
-import org.bernardomecabo.OOPExamples.TriangleExample.OOP.Calculus;
-import org.bernardomecabo.OOPExamples.TriangleExample.OOP.Triangle;
+import org.bernardomecabo.OOPExamples.Encapsulation.TriangleExample.OOP.Calculus;
+import org.bernardomecabo.OOPExamples.Encapsulation.TriangleExample.OOP.Triangle;
 
 public class OOPSolution {
     static void main() {

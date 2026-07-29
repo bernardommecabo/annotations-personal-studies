@@ -1,4 +1,4 @@
-package org.bernardomecabo.OOPExamples.TriangleExample.OOP;
+package org.bernardomecabo.OOPExamples.Encapsulation.TriangleExample.OOP;
 
 public record Triangle(
         double a, double b, double c, double p, double area
